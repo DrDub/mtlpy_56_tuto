@@ -1,0 +1,7 @@
+Quick Prototyping Use Cases with Widgets in Jupyter Notebook
+
+Jupyter Notebooks (anciennement appelé ipython notebooks) permet d'avoir un REPL (une boucle de Lecture-Evalution-Impression) en python directement dans votre navigateur. Il fournit également des capacités pour avoir des "widgets" interactifs qui communiquent en temps réel avec la session python.
+
+Cette fonctionnalité est vraiment utile pour l’analyse de données, mais dans cette présentation je présenterai une application différente qui peut être intéressante pour d’autres pythonistas : la création interactive de prototypes pour des cas d'expérience d’utilisateur.
+
+http://duboue.net/blog14.html
