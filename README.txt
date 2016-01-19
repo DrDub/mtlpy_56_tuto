@@ -30,6 +30,7 @@ Source: https://github.com/DrDub/mtlpy_56_tuto
 
 * Use cases
 ** Poisson Magique
+   https://github.com/DrDub/poissonmagique
    commit 38e309f9e4103f0b9ddcf4ae08be08177191d0ab, notebooks folder
 
    See MtlPy #42
